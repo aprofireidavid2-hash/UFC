@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto id="1">
+        <nombre>Camiseta Oficial Venum</nombre>
+        <categoria>Ropa</categoria>
+        <precio moneda="EUR">45.00</precio>
+        <descripcion>Camiseta de algodón utilizada por los peleadores durante las entrevistas y pesajes.</descripcion>
+        <imagen>imagenes/productos/camiseta.jpg</imagen>
+        <stock>120</stock>
+    </producto>
+
+    <producto id="2">
+        <nombre>Guantes MMA Profesionales</nombre>
+        <categoria>Equipamiento</categoria>
+        <precio moneda="EUR">65.00</precio>
+        <descripcion>Guantes de 4 onzas, homologados para competición en el octógono.</descripcion>
+        <imagen>imagenes/productos/guantes.jpg</imagen>
+        <stock>50</stock>
+    </producto>
+
+    <producto id="3">
+        <nombre>Pantalones de Pelea Venum</nombre>
+        <categoria>Ropa</categoria>
+        <precio moneda="EUR">55.00</precio>
+        <descripcion>Pantalones cortos de microfibra, diseñados para máxima movilidad y comodidad.</descripcion>
+        <imagen>imagenes/productos/pantalones.jpg</imagen>
+        <stock>85</stock>
+    </producto>
+</tienda>
